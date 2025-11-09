@@ -21,7 +21,7 @@ This repository contains the comprehensive completion of **Assignment II** for t
 
 **Objective**: Create an educational blog post explaining cloud data concepts for analytics
 
-** Deliverable**: Published technical article on dev.to platform
+**Deliverable**: Published technical article on dev.to platform
 
 - **Title**: [DATA FLOATING IN THE CLOUD](https://dev.to/abijith_rajab_7dc1ac8d79/data-floating-in-the-cloud-2m30)
 - **Platform**: dev.to
@@ -172,7 +172,6 @@ graph TD
 
 - **Blog Post**: [Data Floating in the Cloud](https://dev.to/abijith_rajab_7dc1ac8d79/data-floating-in-the-cloud-2m30)
 - **Kaggle Discussion**: [Parquet vs CSV Analysis](https://www.kaggle.com/discussions/general/615203)
-- **Google Cloud Skills**: [Google Cloud Skills Boost Platform](https://www.cloudskillsboost.google/)
 
 ## Author
 
