@@ -38,13 +38,9 @@ This repository contains the comprehensive completion of **Assignment II** for t
 
 <div align="center">
 
-**Blog Post Publication on dev.to**
-![Blog Post Screenshot](images/task1/blog-post-screenshot.png)
-*Professional blog post published on dev.to platform*
-
-**Article Content Preview**
-![Article Content](images/task1/article-content.png)
-*Detailed technical content about cloud data concepts*
+**Task 1 Completion Evidence**
+![Task 1 Screenshot](Task%201.jpg)
+*Blog post publication and technical content on dev.to platform*
 
 </div>
 
@@ -72,17 +68,9 @@ This repository contains the comprehensive completion of **Assignment II** for t
 
 <div align="center">
 
-**Kaggle Discussion Post**
-![Kaggle Discussion](images/task2/kaggle-discussion-post.png)
-*Technical discussion initiated on Kaggle platform*
-
-**Community Engagement**
-![Discussion Engagement](images/task2/discussion-engagement.png)
-*Community responses and technical insights shared*
-
-**Performance Analysis Charts**
-![Performance Analysis](images/task2/parquet-vs-csv-analysis.png)
-*Detailed comparison charts showing Parquet vs CSV performance*
+**Task 2 Completion Evidence**
+![Task 2 Screenshot](Task%202.jpg)
+*Kaggle discussion post on Parquet vs CSV analysis*
 
 </div>
 
@@ -115,29 +103,9 @@ This repository contains the comprehensive completion of **Assignment II** for t
 
 <div align="center">
 
-**Google Cloud Skills Dashboard**
-![Skills Dashboard](images/task3/google-skills-dashboard.png)
-*100% completion status across all required labs*
-
-**BigQuery Challenge Lab**
-![BigQuery Lab](images/task3/bigquery-challenge-lab.png)
-*Derive Insights from BigQuery Data: Challenge Lab completion*
-
-**Datastore Qwik Start**
-![Datastore Lab](images/task3/datastore-qwik-start.png)
-*Successfully completed Datastore: Qwik Start lab*
-
-**Dataplex Console Lab**
-![Dataplex Lab](images/task3/dataplex-console-lab.png)
-*Dataplex: Qwik Start - Console lab completion*
-
-**Dataproc Command Line Lab**
-![Dataproc Lab](images/task3/dataproc-command-line.png)
-*Dataproc: Qwik Start - Command Line lab completion*
-
-**Lab Certificates/Badges**
-![Lab Badges](images/task3/lab-completion-badges.png)
-*Achievement badges and certificates earned*
+**Task 3 Completion Evidence**
+![Task 3 Screenshot](Task%203.jpg)
+*Google Cloud Skills labs completed with 100% assessment scores*
 
 </div>
 
